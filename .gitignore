@@ -1,2 +1,5 @@
+.venv
 .env
 __pycache__
+from_git
+mongo_pass.txt
